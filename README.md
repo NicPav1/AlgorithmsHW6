@@ -9,11 +9,8 @@ Given the exchange rates A, the initial dollars k, the transaction fees b and d,
 
 ## To Run
 1) Download Main.java
-2) Compile by running the following code in your terminal:
-  '''
-  javac Main.java
-  '''
-3) Run program by running the following code in your terminal:
-  '''
-  java Main.java
-  '''
+2) Change values in the code as desired
+3) Compile by running the following code in your terminal:
+  ```javac Main.java```
+4) Run program by running the following code in your terminal:
+  ```java Main.java```
